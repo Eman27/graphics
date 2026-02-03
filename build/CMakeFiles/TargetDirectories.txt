@@ -1,0 +1,3 @@
+/home/memanuele/dev/graphics/build/CMakeFiles/graphics.dir
+/home/memanuele/dev/graphics/build/CMakeFiles/edit_cache.dir
+/home/memanuele/dev/graphics/build/CMakeFiles/rebuild_cache.dir
